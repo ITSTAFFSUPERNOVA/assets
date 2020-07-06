@@ -1,4 +1,21 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);@import url('https://db.onlinewebfonts.com/c/5361d2e98a1caca7fda1f9faf5841f26?family=Myriad+Pro');@import url('https://db.onlinewebfonts.com/c/af37a17ad53d1410778d941a0951508b?family=Arial+Rounded+MT+Std');@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');*{margin:0;padding:0;}
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');*{margin:0;padding:0;}
+@font-face {font-family: "Myriad Pro";
+    src: url("https://db.onlinewebfonts.com/t/5361d2e98a1caca7fda1f9faf5841f26.eot"); /* IE9*/
+    src: url("https://db.onlinewebfonts.com/t/5361d2e98a1caca7fda1f9faf5841f26.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://db.onlinewebfonts.com/t/5361d2e98a1caca7fda1f9faf5841f26.woff2") format("woff2"), /* chrome firefox */
+    url("https://db.onlinewebfonts.com/t/5361d2e98a1caca7fda1f9faf5841f26.woff") format("woff"), /* chrome firefox */
+    url("https://db.onlinewebfonts.com/t/5361d2e98a1caca7fda1f9faf5841f26.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("https://db.onlinewebfonts.com/t/5361d2e98a1caca7fda1f9faf5841f26.svg#Myriad Pro") format("svg"); /* iOS 4.1- */
+}
+@font-face {font-family: "Arial Rounded MT Std";
+    src: url("https://db.onlinewebfonts.com/t/af37a17ad53d1410778d941a0951508b.eot"); /* IE9*/
+    src: url("https://db.onlinewebfonts.com/t/af37a17ad53d1410778d941a0951508b.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://db.onlinewebfonts.com/t/af37a17ad53d1410778d941a0951508b.woff2") format("woff2"), /* chrome firefox */
+    url("https://db.onlinewebfonts.com/t/af37a17ad53d1410778d941a0951508b.woff") format("woff"), /* chrome firefox */
+    url("https://db.onlinewebfonts.com/t/af37a17ad53d1410778d941a0951508b.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("https://db.onlinewebfonts.com/t/af37a17ad53d1410778d941a0951508b.svg#Arial Rounded MT Std") format("svg"); /* iOS 4.1- */
+}
 html{background:-webkit-linear-gradient(to left, #6441A5, #2a0845);}
 #msform{text-align:center;position:relative;margin-top:30px;}
 #msform fieldset{background:white;border:0 none;border-radius:0px;box-shadow:0 0 15px 1px rgba(0, 0, 0, 0.4);padding:20px 30px;box-sizing:border-box;width:80%;margin:0 10%;position:relative;}
